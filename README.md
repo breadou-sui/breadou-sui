@@ -4,7 +4,7 @@
 - 🍉 Cold watermelon slaps in the summer 
 - 📫 Contact me at aqs2104@columbia.edu
 
-[blog-site]: anniesui.org
+[blog-site]: https://anniesui.org/
 
 <!--
 **breadou-sui/breadou-sui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
