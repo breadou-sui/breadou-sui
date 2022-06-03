@@ -1,8 +1,8 @@
-- 👋 Hi, 我叫 Annie 
-- 🪐 Incoming SWE @ Meta
-- 💭 This is my [blog][blog-site] 
-- 🍉 Cold watermelon slaps in the summer 
-- 📫 Contact me at aqs2104@columbia.edu
+- 👋 hi, 我叫 Annie 
+- 📍 based in NYC
+- 🪐 incoming SWE @ Meta
+- 💭 this is my [blog][blog-site] 
+- 📫 contact me at aqs2104@columbia.edu
 
 [blog-site]: https://anniesui.org/
 
