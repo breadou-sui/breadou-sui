@@ -1,8 +1,10 @@
-- 👋 Hi, I'm Annie 
+- 👋 Hi, 我叫 Annie 
 - 🪐 Incoming SWE @ Meta
-- 💭 This is my [blog][anniesui.org] 
+- 💭 This is my [blog][blog-site] 
 - 🍉 Cold watermelon slaps in the summer 
-- 📫 Contact me at [aqs2104@columbia.edu]
+- 📫 Contact me at aqs2104@columbia.edu
+
+[blog-site]: anniesui.org
 
 <!--
 **breadou-sui/breadou-sui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
