@@ -1,6 +1,6 @@
 - 👋 hi, 我叫 Annie 
 - 📍 based in NYC
-- 🪐 incoming SWE @ Meta
+- 🪐 SWE @ Meta
 - 💭 this is my [blog][blog-site] 
 - 📫 contact me at aqs2104@columbia.edu
 
