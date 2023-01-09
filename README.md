@@ -1,6 +1,6 @@
 - 👋 hi, 我叫 Annie 
 - 📍 based in NYC
-- 📱 SWE @ Instagram
+- 📱 software engineer @ Instagram
 - 💭 this is my [blog][blog-site] 
 - 📫 contact me at squishyrainbow@gmail.com
 
