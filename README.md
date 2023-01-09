@@ -2,7 +2,7 @@
 - 📍 based in NYC
 - 📱 SWE @ Instagram
 - 💭 this is my [blog][blog-site] 
-- 📫 contact me at aqs2104@columbia.edu
+- 📫 contact me at squishyrainbow@gmail.com
 
 [blog-site]: https://anniesui.org/
 
