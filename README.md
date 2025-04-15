@@ -2,7 +2,7 @@
 - 📍 based in NYC
 - 📱 software engineer @ Instagram
 - 💭 this is my [blog][blog-site] 
-- 📫 contact me at squishyrainbow@gmail.com
+- 📫 contact me at plvshygirl@gmail.com
 
 [blog-site]: https://anniesui.org/
 
